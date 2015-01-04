@@ -280,7 +280,7 @@ hr {
 
 .logo-wrapper {
   background: url(../images/logo.jpg) no-repeat;
-  background-size:40% 100%;
+  background-size:100px 100px;
   height: 100px;
   background-position: 15px;
 }
